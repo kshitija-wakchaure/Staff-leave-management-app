@@ -1,0 +1,28 @@
+
+
+.custom-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.close-button {
+    float: right;
+    margin: 5px;
+}
+
+.custom-button {
+    margin-right: 10px;
+    color: white;
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.mat-dialog-content {
+    padding: 20px;
+}
